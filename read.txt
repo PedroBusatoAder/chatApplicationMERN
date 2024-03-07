@@ -1,0 +1,2 @@
+Folder chatApplicationMERN is my github repository
+Folder chatApplication is a directoy upwards, containing inside the chatApplicationMERN folder within!
